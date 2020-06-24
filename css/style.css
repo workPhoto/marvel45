@@ -1,0 +1,43 @@
+/* Header, footer */
+header {
+  background-color: #ee171f;
+}
+
+nav {
+  background-color: #d71e1e;
+}
+
+/* Navbar */
+
+.navbar-brand {
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.nav-link, .dropdown-item {
+  font-size: 15px;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+nav li {
+  padding: 0 18px;
+}
+
+nav li.active, nav li.active:before {
+  background-color: rgba(0, 0, 0, 0.1);
+  border-radius: 5px;
+}
+
+/* Your code */
+.custom-1 {
+  font-family: 'Balsamiq Sans', cursive;
+}
+
+.custom-2 {
+  font-family: 'Balsamiq Sans', cursive;
+}
+
+.custom-3 {
+  font-family: 'MuseoModerno', cursive;
+}
